@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VladCaterov
-- 👀 I’m interested in ...
+- 👀 I’m interested in Mobile Development, Machine Learning, Operating Systems, Embedded Systems
 - 🌱 I’m currently learning Flutter and Dart for mobile development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: Email - vladcaterovdev@gmail.com
