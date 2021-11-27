@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development, Machine Learning, Operating Systems, Embedded Systems
 - 🌱 I’m currently learning Flutter and Dart for mobile development
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me: Email - vladcaterovdev@gmail.com
+- 📫 Email - vladcaterovdev@gmail.com
 
 <!---
 VladCaterov/VladCaterov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
