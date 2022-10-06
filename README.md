@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @VladCaterov
-- 👀 I’m interested in Mobile Development including Flutter, Swift, and React Native
-- 🌱 I’m currently learning Flutter and Dart for mobile development
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 👋 Hi, I’m Vlad
+  - A senior @ UTA studying Computer Science
+  - Currently seeking internships
+- 👀 Interested in Mobile Development including Flutter, Swift, and React Native
+- 🌱 Currently learning Flutter and Dart for mobile development on iOS and Android
 
 <!---
 VladCaterov/VladCaterov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
